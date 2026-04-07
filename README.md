@@ -43,6 +43,13 @@ Repository: [JLHC-AI-portfolio/CSV2PDF-portfolio-case-study](https://github.com/
 
 Representative portfolio case study showing a CSV-to-PDF automation workflow.
 
+## HF-EOLUS
+
+Open outputs for the HF-EOLUS project are curated in the Zenodo community:
+https://zenodo.org/communities/hf-eolus/
+
+It brings together datasets, software, reports, and technical documentation related to offshore wind estimation from HF radar.
+
 ## How I work
 
 I am especially interested in projects involving:
