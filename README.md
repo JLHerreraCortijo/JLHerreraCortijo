@@ -43,6 +43,12 @@ Repository: [JLHC-AI-portfolio/CSV2PDF-portfolio-case-study](https://github.com/
 
 Representative portfolio case study showing a CSV-to-PDF automation workflow.
 
+### Automated website listing extraction and normalization
+
+Repository: [JLHC-AI-portfolio/community-workshop-listings-pipeline-c13d19ba](https://github.com/JLHC-AI-portfolio/community-workshop-listings-pipeline-c13d19ba)
+
+Representative portfolio case study showing a Python workflow that collects multiple websites' listings into one normalized catalog using Scrapy, Beautiful Soup, and Playwright.
+
 ## HF-EOLUS
 
 Open outputs for the HF-EOLUS project are curated in the Zenodo community:
