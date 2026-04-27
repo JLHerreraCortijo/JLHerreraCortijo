@@ -1,8 +1,8 @@
 # Juan Luis Herrera Cortijo
 
-Data Scientist and AI Engineer focused on statistical analysis, research workflows, ETL automation, and applied machine learning.
+I help clients turn messy data, documents, websites, spreadsheets, and research workflows into reliable pipelines, automated reporting systems, and decision-ready outputs.
 
-I build end-to-end data solutions: from raw data ingestion and cleaning to modeling, reporting, and deployment. My background combines research-grade analytical work with practical delivery for real projects and clients.
+My work combines practical data engineering, statistical rigor, applied machine learning, reproducible delivery, and maintainable implementation. Public examples include portfolio workflows for scraping, PDF/OCR extraction, workbook automation, AI-assisted review packets, and HF-EOLUS geospatial/ML pipelines.
 
 ## What I do
 
